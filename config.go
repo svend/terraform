@@ -9,10 +9,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/hashicorp/hcl"
-	"github.com/hashicorp/terraform/plugin"
-	"github.com/hashicorp/terraform/terraform"
-	"github.com/mitchellh/osext"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/hashicorp/hcl"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/hashicorp/terraform/plugin"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/hashicorp/terraform/terraform"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/mitchellh/osext"
 )
 
 // Config is the structure of the configuration for the Terraform CLI.

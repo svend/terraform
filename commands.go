@@ -4,8 +4,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/hashicorp/terraform/command"
-	"github.com/mitchellh/cli"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/hashicorp/terraform/command"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/mitchellh/cli"
 )
 
 // Commands is the mapping of all the available Terraform commands.

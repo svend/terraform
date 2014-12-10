@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mitchellh/panicwrap"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/mitchellh/panicwrap"
 )
 
 // This output is shown if a panic happens.

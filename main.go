@@ -8,10 +8,10 @@ import (
 	"os"
 	"sync"
 
-	"github.com/hashicorp/terraform/plugin"
-	"github.com/mitchellh/cli"
-	"github.com/mitchellh/panicwrap"
-	"github.com/mitchellh/prefixedio"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/hashicorp/terraform/plugin"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/mitchellh/cli"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/mitchellh/panicwrap"
+	"github.com/svend/terraform/Godeps/_workspace/src/github.com/mitchellh/prefixedio"
 )
 
 func main() {
